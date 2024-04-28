@@ -1,3 +1,8 @@
+<script setup>
+const props = defineProps(['modalActive2', 'title'])
+const emit = defineEmits('close')
+</script>
+
 <template>
   <div v-show="modalActive2" class="modal">
     <div v-show="modalActive2" class="modal-inner icon">
@@ -21,11 +26,6 @@
     </div>
   </div>
 </template>
-
-<script setup>
-const props = defineProps(['modalActive2', 'title'])
-const emit = defineEmits('close')
-</script>
 
 <style scoped>
 .modal {

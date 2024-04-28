@@ -15,7 +15,7 @@
         Curieux et ouvert d'esprit j'aime decouvrir de nouvelles choses. Habitué au travail en
         autonomie, comme en équipe pour atteindre un but commun.
         <br />
-        Mes passe-temps sont les voyages, la randonnée et les sorties en famille.
+        Mes passe-temps sont les voyages , la randonnée ainsi que les sorties en famille.
       </p>
     </li>
   </ul>
